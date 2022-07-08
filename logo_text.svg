@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2905px" height="1515px" viewBox="0 0 2905 1515" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>volcano logo</title>
+    <g id="wordmarks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lava-wordmark" transform="translate(-1618.000000, -121.000000)">
+            <g id="volcano-logo" transform="translate(1618.000000, 121.000000)">
+                <path d="M2623.31521,778.533541 L2324.93525,778.533541 L2256.40779,999.951338 L2060.81901,999.951338 L2383.46911,0 L2579.05789,0 L2900.28034,999.951338 L2694.69798,999.951338 L2623.31521,778.533541 Z M2370.62022,621.398331 L2584.76852,621.398331 L2483.40499,287.128884 L2470.55609,287.128884 L2370.62022,621.398331 Z" id="a" fill="#606060" fill-rule="nonzero"></path>
+                <polygon id="v" fill="#606060" fill-rule="nonzero" points="1806.67892 732.82148 1813.8172 732.82148 2010.83363 0 2213.56069 0 1913.75307 999.951338 1691.03884 999.951338 1382.66529 0 1601.09655 0"></polygon>
+                <path d="M1262.44754,778.533541 L964.067571,778.533541 L895.540115,999.951338 L699.951334,999.951338 L1022.60144,0 L1218.19022,0 L1539.41267,999.951338 L1333.8303,999.951338 L1262.44754,778.533541 Z M1009.75254,621.398331 L1223.90084,621.398331 L1122.53731,287.128884 L1109.68841,287.128884 L1009.75254,621.398331 Z" id="a" fill="#606060" fill-rule="nonzero"></path>
+                <g id="l" transform="translate(0.280345, 0.000000)" fill-rule="nonzero">
+                    <polygon id="lambda-left-triangle" fill="#FF5E0A" points="370.713401 1000 6.59653397e-13 999.935534 185.356701 381"></polygon>
+                    <polygon id="lambda-right-leg" fill="#606060" points="632.747157 999.951338 401.481583 999.951338 101.659373 0 320.090639 0"></polygon>
+                </g>
+                <text id="Visual-Machines" font-family="SFUIDisplay-Bold, SF UI Display" font-size="432" font-weight="bold" letter-spacing="-25.903915" fill="#606060">
+                    <tspan x="9.83014375" y="1411">Visual Machines</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
